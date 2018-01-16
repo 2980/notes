@@ -31,3 +31,16 @@ Image -> Idea
 ## Image Processing (Signal Processing)
 
 Image -> Idea ->Image
+
+## Image Coordinates
+
+0,0 is in the upper left
+
+## What to do outside of class
+
+- Google Bob Ross and follow along
+- Google "Bob Ross gimp"
+- Any sort o digital art
+- Any tutorial on Gimp/Photoshop/Illustrator/Inkscape/etc. where you follow along.
+- Cool programming
+
