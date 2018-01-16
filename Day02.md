@@ -1,3 +1,9 @@
+## Your Eye
+
+[Eye Slides](The_Eye.pptx)
+
+[Optical Illusions](Some_Optical_Illusions.pptx)
+
 ## Your eye v. a camera
 
 ISO - How quickly yo capture the image - this is set by eye's hardware
