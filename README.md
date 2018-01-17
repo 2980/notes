@@ -1,5 +1,7 @@
 Notes for 2D Graphics.
 
+[A collection of CC0 images.](https://www.pexels.com/u/b-ricks-110887/likes/)
+
 [Syllabus, etc.](https://github.com/2980/2980)
 
 [Day 1](Day01.md)
