@@ -8,9 +8,9 @@ Notes for 2D Graphics.
 
 [Day 2](Day02.md) - The Eye
 
-[Day 3](Day03.md) BW Color Reduction
+[Day 3](Day03.md) Color Spaces
 
-[Day 4](Day03.md) - Dithering
+[Day 4](https://github.com/2980/Day04_Dithering) - Dithering
 
 [Day 5](https://github.com/2980/Day05_ColorReduction) - Color Reduction on Color
 
