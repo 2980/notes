@@ -10,10 +10,10 @@ Notes for 2D Graphics.
 
 [Day 3](Day03.md) BW Color Reduction
 
-[Day 4]() - Dithering
+[Day 4](Day03.md) - Dithering
 
-[Day 5]() - Color Reduction on Color
+[Day 5](https://github.com/2980/Day05_ColorReduction) - Color Reduction on Color
 
-[Day 6]() - Machine Learning/KMeans
+[Day 6](https://github.com/2980/Day06_KMeans) - Machine Learning/KMeans
 
-[Day 7]() - Drawing Mountains
+[Day 7](https://github.com/2980/notes/blob/master/Day07Mountains.java) - Drawing Mountains
